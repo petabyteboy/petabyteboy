@@ -16,6 +16,7 @@ If you are interested in any of my networking projects or want to talk to me for
 - Matrix: [@mil:nyantec.com](https://matrix.to/#/@mil:nyantec.com)
 
 If you wish to encrypt your messages using PGP, use the key with the following fingerprint: 
+
 [`Milan Pässler <me@pbb.lc> (C08877037FF460992DAB03EFA6DC6A7CB0B97859)`](https://keys.openpgp.org/vks/v1/by-fingerprint/C08877037FF460992DAB03EFA6DC6A7CB0B97859)
 
 Oh, and if you haven't noticed by now: ɹǝǝnb ɯ,I
