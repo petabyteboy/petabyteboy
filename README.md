@@ -2,11 +2,13 @@
 
 **Many of my projects are hosted over at [git.pbb.lc](https://git.pbb.lc/petabyteboy/). If something you are looking for isn't here, I have probably moved it there.**
 
-My pronouns are **they/them/...**. If your language doesn't have any common gender-neutral pronouns, you may use male pronouns.
+I'm non-binary. My pronouns are **they/them/...**. Using the correct pronouns is not optional. If your language doesn't have any common gender-neutral pronouns, you may use male pronouns, but gender-neutral pronouns are preferred.
 
-I'm mostly a networking person. Many of my projects are related to network visualisation, such as [HopGlass](https://github.com/hopglass/), a tool widely used by wireless mesh networking projects across Germany.
+I'm mostly a networking person. Many of my projects are related to network visualisation, such as [HopGlass](https://github.com/hopglass/), a tool widely used by wireless mesh networking projects across Germany. But I'm also a NixOS user, enthusiast and contributor. Declarative infrastructure deployment is the future. 🚀
 
-If you are interested in networking or want to talk to me for any other reason, you can contact me on any of the following platforms:
+At day I build train-wayside communication systems at @nyantec 🚈💨, at night I establish independent infrastructure, like the experimental autonomous network [AS207921](https://bgpview.io/asn/207921).
+
+If you are interested in any of my networking projects or want to talk to me for any other reason, you may contact me on any of the following platforms:
 - XMPP: [petabyteboy@petabyteboy.de](xmpp:petabyteboy@petabyteboy.de)
 - IRC: pbb on Freenode
 - Email: [github@pbb.lc](mailto:github@pbb.lc)
