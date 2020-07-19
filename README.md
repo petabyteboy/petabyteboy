@@ -8,6 +8,8 @@ I'm mostly a networking person. Many of my projects are related to network visua
 
 At day I build train-wayside communication systems at @nyantec 🚈💨, at night I establish independent infrastructure, like the experimental autonomous network [AS207921](https://bgpview.io/asn/207921).
 
+---
+
 If you are interested in any of my networking projects or want to talk to me for any other reason, you may contact me on any of the following platforms:
 - XMPP: [petabyteboy@petabyteboy.de](xmpp:petabyteboy@petabyteboy.de)
 - IRC: pbb on Freenode
@@ -15,9 +17,9 @@ If you are interested in any of my networking projects or want to talk to me for
 - Telegram: [@petabyteboy](https://t.me/petabyteboy)
 - Matrix: [@mil:nyantec.com](https://matrix.to/#/@mil:nyantec.com)
 
----
-
 If you wish to encrypt your messages using PGP, use the key with the following fingerprint: <br>[`Milan Pässler <me@pbb.lc> (C08877037FF460992DAB03EFA6DC6A7CB0B97859)`](https://keys.openpgp.org/vks/v1/by-fingerprint/C08877037FF460992DAB03EFA6DC6A7CB0B97859)
+
+---
 
 Oh, and if you haven't noticed by now: ɹǝǝnb ɯ,I
 
