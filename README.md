@@ -6,7 +6,7 @@ I'm non-binary. My pronouns are **they/them/...**. Using the correct pronouns is
 
 I'm mostly a networking person. Many of my projects are related to network visualisation, such as [HopGlass](https://github.com/hopglass/), a tool widely used by wireless mesh networking projects across Germany. But I'm also a NixOS user, enthusiast and contributor. Declarative infrastructure deployment is the future. 🚀
 
-At day I build train-wayside communication systems at @nyantec 🚈💨, at night I establish independent infrastructure, like the experimental autonomous network [AS207921](https://bgpview.io/asn/207921).
+At day I build train-wayside communication systems at [nyantec](https://nyantec.com/) 🚈💨, at night I establish independent infrastructure, like the experimental autonomous network [AS207921](https://bgpview.io/asn/207921).
 
 ---
 
