@@ -1,6 +1,6 @@
 ### Hi there, I'm Milan ✨
 
-**Many of my projects are hosted over at [git.pbb.lc](https://git.pbb.lc/petabyteboy/). If something you are looking for isn't here, I have probably moved it there.**
+**Many of my projects are hosted over at [git.petabyte.dev](https://git.petabyte.dev/petabyteboy/). If something you are looking for isn't here, I have probably moved it there.**
 
 I'm non-binary. My pronouns are **they/them/...**. Using the correct pronouns is not optional. If your language doesn't have any common gender-neutral pronouns, you may use male pronouns, but gender-neutral pronouns are preferred.
 
@@ -11,11 +11,11 @@ At day I build train-wayside communication systems at [nyantec](https://nyantec.
 ---
 
 If you are interested in any of my networking projects or want to talk to me for any other reason, you may contact me on any of the following platforms:
-- XMPP: [petabyteboy@petabyteboy.de](xmpp:petabyteboy@petabyteboy.de)
+- Matrix: [@milan:petabyte.dev](https://matrix.to/#/@milan:petabyte.dev)
+- Email: [github@petabyte.dev](mailto:github@pbb.lc)
 - IRC: pbb on Freenode
-- Email: [github@pbb.lc](mailto:github@pbb.lc)
+- XMPP: [petabyteboy@petabyteboy.de](xmpp:petabyteboy@petabyteboy.de)
 - Telegram: [@petabyteboy](https://t.me/petabyteboy)
-- Matrix: [@mil:nyantec.com](https://matrix.to/#/@mil:nyantec.com)
 
 If you wish to encrypt your messages using PGP, use the key with the following fingerprint: <br>[`Milan Pässler <me@pbb.lc> (C08877037FF460992DAB03EFA6DC6A7CB0B97859)`](https://keys.openpgp.org/vks/v1/by-fingerprint/C08877037FF460992DAB03EFA6DC6A7CB0B97859)
 
