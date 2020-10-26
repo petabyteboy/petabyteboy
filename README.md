@@ -2,7 +2,7 @@
 
 **Many of my projects are hosted over at [git.petabyte.dev](https://git.petabyte.dev/petabyteboy/). If something you are looking for isn't here, I have probably moved it there.**
 
-I'm non-binary. My pronouns are **they/them/...**. Using the correct pronouns is not optional. If your language doesn't have any common gender-neutral pronouns, you may use male pronouns, but gender-neutral pronouns are preferred.
+I'm non-binary. My pronouns are **they/them/...**. If your language doesn't have any common gender-neutral pronouns, you may use male or female pronouns, but gender-neutral pronouns are preferred.
 
 I'm mostly a networking person. Many of my projects are related to network visualisation, such as [HopGlass](https://github.com/hopglass/), a tool widely used by wireless mesh networking projects across Germany. But I'm also a NixOS user, enthusiast and contributor. Declarative infrastructure deployment is the future. 🚀
 
