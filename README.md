@@ -6,7 +6,7 @@ I'm non-binary. My English pronouns are **they/them/...**. In general I prefer g
 
 I'm mostly a networking person. Many of my projects are related to network visualisation, such as [HopGlass](https://github.com/hopglass/), a tool widely used by wireless mesh networking projects across Germany. But I'm also a NixOS user, enthusiast and contributor. Declarative infrastructure deployment is the future. 🚀
 
-At day I build train-wayside communication systems at [nyantec](https://nyantec.com/) 🚈💨, at night I establish independent infrastructure, like the experimental autonomous network [AS207921](https://bgpview.io/asn/207921).
+For work I build train-wayside communication systems at [nyantec](https://nyantec.com/) 🚈💨, in my spare time I establish independent infrastructure, like the experimental autonomous network [AS207921](https://bgpview.io/asn/207921).
 
 ---
 
@@ -17,7 +17,7 @@ If you are interested in any of my networking projects or want to talk to me for
 - XMPP: [petabyteboy@petabyteboy.de](xmpp:petabyteboy@petabyteboy.de)
 - Telegram: [@petabyteboy](https://t.me/petabyteboy)
 
-If you wish to encrypt your messages using PGP, use the key with the following fingerprint: <br>[`Milan Pässler <me@pbb.lc> (C08877037FF460992DAB03EFA6DC6A7CB0B97859)`](https://keys.openpgp.org/vks/v1/by-fingerprint/C08877037FF460992DAB03EFA6DC6A7CB0B97859)
+If you wish to encrypt your messages using PGP, use the key with the following fingerprint: <br>[`Milan Pässler (C08877037FF460992DAB03EFA6DC6A7CB0B97859)`](https://keys.openpgp.org/vks/v1/by-fingerprint/C08877037FF460992DAB03EFA6DC6A7CB0B97859)
 
 ---
 
