@@ -14,6 +14,7 @@ If you are interested in any of my networking projects or want to talk to me for
 - Matrix: [@milan:petabyte.dev](https://matrix.to/#/@milan:petabyte.dev)
 - Email: [github@petabyte.dev](mailto:github@pbb.lc)
 - IRC: pbb on Freenode
+- Fediverse: [pbb@pleroma.pbb.lc](https://pleroma.pbb.lc/users/pbb)
 - XMPP: [petabyteboy@petabyteboy.de](xmpp:petabyteboy@petabyteboy.de)
 - Telegram: [@petabyteboy](https://t.me/petabyteboy)
 
