@@ -15,8 +15,7 @@ If you are interested in any of my networking projects or want to talk to me for
 - Email: [github@petabyte.dev](mailto:github@pbb.lc)
 - IRC: pbb on Freenode
 - Fediverse: [pbb@pleroma.pbb.lc](https://pleroma.pbb.lc/users/pbb)
-- XMPP: [petabyteboy@petabyteboy.de](xmpp:petabyteboy@petabyteboy.de)
-- Telegram: [@petabyteboy](https://t.me/petabyteboy)
+- Telegram: [@petabyteboy](https://t.me/petabytedev)
 
 If you wish to encrypt your messages using PGP, use the key with the following fingerprint: <br>[`Milan Pässler (C08877037FF460992DAB03EFA6DC6A7CB0B97859)`](https://keys.openpgp.org/vks/v1/by-fingerprint/C08877037FF460992DAB03EFA6DC6A7CB0B97859)
 
